@@ -4,7 +4,7 @@ A hackathon project at Galvanize in collaboration with IBM: Building a zika outb
 
 ### Contributors:
 1. Dorian
-2. Julain
+2. Julian
 3. Max
 4. Sanath
 5. Vedraj
