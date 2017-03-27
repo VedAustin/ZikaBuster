@@ -8,3 +8,7 @@ A hackathon project at Galvanize in collaboration with IBM: Building a zika outb
 3. Max
 4. Sanath
 5. Vedraj
+
+## Final position:
+
+![Honorary!!](https://github.com/VedAustin/ZikaBuster/blob/master/screen_shot_2017-03-26_at_6.09.34_pm.png)
